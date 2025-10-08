@@ -1,5 +1,5 @@
 :root {
-    --background: #1a1a2e;
+    --background: black;
     --color: #ffffff;
     --primary-color: #0f3460;
 }
@@ -214,3 +214,4 @@ h1 {
         -o-transform: scale(1);
     }
 }
+
